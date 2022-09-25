@@ -1,4 +1,8 @@
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=is1dd&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/is1dd) 
 
@@ -8,6 +12,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=is1dd&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=is1dd&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=is1dd&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=is1dd&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
